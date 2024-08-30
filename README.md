@@ -11,6 +11,7 @@
         <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open In Streamlit"/>
     </a>
 
+
 ## Introduction
 Object Detection Model Using YOLOv10 for detecting objects in images.
 
@@ -21,6 +22,12 @@ Object Detection Model Using YOLOv10 for detecting objects in images.
   - YOLOv10-B: Balanced version with increased width for higher accuracy.
   - YOLOv10-L: Large version for higher accuracy at the cost of increased computational resources.
   - YOLOv10-X: Extra-large version for maximum accuracy and performance.
+
+### Demonstration Video
+
+https://github.com/user-attachments/assets/896fda5e-6470-4532-b426-b036947b48a9
+
+
 
 ## Pretrained Models
 YOLOv10 outperforms previous YOLO versions and other state-of-the-art models in terms of accuracy and efficiency. For example, YOLOv10-S is 1.8x faster than RT-DETR-R18 with similar AP on the COCO dataset, and YOLOv10-B has 46% less latency and 25% fewer parameters than YOLOv9-C with the same performance.

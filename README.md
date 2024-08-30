@@ -2,12 +2,12 @@
 
 
 <!-- Tags for Google Colab -->
-<a href="">
+<a href="https://colab.research.google.com/github/Sanjeev-Kumar78/Object-Detection/blob/main/Object_Detection.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 
 <!-- Tags for Streamlit -->
-<a href="">
+<a href="https://object-detection-yolov10.streamlit.app/?embed_options=dark_theme">
         <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open In Streamlit"/>
     </a>
 

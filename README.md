@@ -1,4 +1,4 @@
-# Object Detection in Images using YOLOv10
+# Object Detection in Images using YOLO
 
 
 <!-- Tags for Google Colab -->
@@ -13,15 +13,15 @@
 
 
 ## Introduction
-Object Detection Model Using YOLOv10 for detecting objects in images.
+Object Detection Model Using YOLO for detecting objects in images.
 
 * Model Variants:
-  - YOLOv10-N: Nano version for extremely resource-constrained environments.
-  - YOLOv10-S: Small version balancing speed and accuracy.
-  - YOLOv10-M: Medium version for general-purpose use.
-  - YOLOv10-B: Balanced version with increased width for higher accuracy.
-  - YOLOv10-L: Large version for higher accuracy at the cost of increased computational resources.
-  - YOLOv10-X: Extra-large version for maximum accuracy and performance.
+  - YOLOv-N: Nano version for extremely resource-constrained environments.
+  - YOLOv-S: Small version balancing speed and accuracy.
+  - YOLOv-M: Medium version for general-purpose use.
+  - YOLOv-B: Balanced version with increased width for higher accuracy.
+  - YOLOv-L: Large version for higher accuracy at the cost of increased computational resources.
+  - YOLOv-X: Extra-large version for maximum accuracy and performance.
 
 ### Demonstration Video
 
@@ -57,3 +57,4 @@ streamlit run app.py
 ## References
 
 [YOLOv10](https://docs.ultralytics.com/models/yolov10/)
+[YOLO11](https://docs.ultralytics.com/models/yolo11/)
